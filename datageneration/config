@@ -1,0 +1,26 @@
+[SYNTH_DATA]
+tmp_path           = './tmp/run0'
+output_path        = './animate_out' # output folder
+bg_path            = './backgrounds/mixed/'
+
+output_types       = {'depth':False, 'fg':False, 'gtflow':False, 'normal':False, 'segm':False, 'vblur':False}
+
+smpl_data_folder   = 'smpl_data'
+smpl_data_filename = 'smpl_data.npz'
+clothing_option    = 'grey' # grey, nongrey or all
+
+resy     = 250  # width
+resx     = 250  # height
+stepsize = 5    # subsampling MoCap sequence by selecting every 4th frame
+stride   = 160   # percent overlap between clips 
+clipsize = 160  # nFrames in each clip, where the random parameters are fixed
+
+garment_path       = './MD_Assets/Garment_Simulation'
+render_output      = './render_out'
+
+fabric_path        = ['./texture/cloth/',
+                      './texture/dataset/dtd/',
+                      './texture/dataset/Fabrics/']
+
+hdr_path           = './backgrounds/hdri/'
+

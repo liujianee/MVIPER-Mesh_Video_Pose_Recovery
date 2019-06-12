@@ -1,0 +1,100 @@
+02_06, bend over, scoop up, rise, lift arm
+05_12, dance - arms held high, pointe tendue a terre, upper body rotation
+05_13, dance - small jetes, pirouette
+05_18, dance - attitude/arabesque, jete en tourant, bending back
+06_14, basketball - crossover dribble, shoot
+11_01, soccer - kick ball
+12_04, tai chi
+13_04, sit on stepstool, chin in hand
+13_12, jump up to grab, reach for, tiptoe
+13_29, jumping jacks, side twists, bend over, squats
+14_14, jumping jacks, jog, squats, side twists, stretches
+26_06, Alaska vacation
+28_07, Alaskan vacation
+29_19, fish (human subject)
+30_22, Tyrannosaurus rex (human subject)
+31_21, monkey (human subject)
+35_27, navigate around obstacles
+43_02, playground - grip bar, swing body
+43_03, playground - grip bar, swing body
+49_06, cartwheel
+49_07, cartwheel
+49_08, cartwheels
+49_15, static dance pose - folded in, head lowered, leg bent
+49_16, dance - fold in from side arabesque, curl inwards
+49_17, dance - lean forward, bring back leg forward, arching arms
+54_24, hummingbird (human subject)
+55_15, roadrunner (human subject)
+55_18, penguin (human subject)
+55_19, dragon (human subject)
+55_20, hippo ballerina (human subject)
+55_21, pterosaur (human subject)
+55_24, various animals (human subject)
+55_25, dancing animal (human subject)
+55_26, monkey (human subject)
+55_27, dancing ant (human subject)
+55_28, monkey/bear (human subject)
+60_07, salsa dance
+60_08, salsa dance
+60_09, salsa dance
+60_10, salsa dance
+61_07, salsa dance
+61_08, salsa dance
+61_09, salsa dance
+61_10, salsa dance
+62_03, sawing, hand saw
+62_10, hammering sequence
+62_14, opening umbrella
+62_15, opening umbrella
+62_22, dynamic calibration
+75_04, wide leg run
+75_05, cross leg run
+75_12, box jump
+75_13, hopscotch
+75_14, hopscotch
+75_15, long jumps
+75_16, jump kick
+75_17, medium sit
+75_18, high sit
+76_04, defensive guard pose
+76_05, swatting at pesky bug
+76_06, avoid stepping on something
+79_72, crying
+79_73, scared
+79_74, upset
+79_75, channel surfing
+79_76, driving
+79_77, vacuuming
+79_78, taking a movie
+79_79, putting on headphones
+79_80, using a palm pilot
+79_81, brushing teeth
+79_82, putting on deoderant
+79_83, shaving
+79_84, combing hair
+79_85, typing on a laptop
+79_86, shooting bow and arrow
+79_87, raking
+79_88, swatting at a fly
+79_89, holding a baby
+80_34, rake leaves
+80_48, arguing
+80_49, gorilla
+85_03, UpRightSequence
+85_04, FancyFootWork
+85_05, HandStandKicks
+85_06, KickFlip
+85_07, KickFlipStumble
+85_08, Helicopter
+85_09, motorcycle pose
+85_10, EndofBreakDance
+85_11, UpRightSequence
+85_12, LongSequenceGood
+85_13, BadStartSequnce
+85_14, BreakSequencewithFlips
+85_15, 90TwistsFall
+
+
+
+
+
