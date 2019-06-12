@@ -4,6 +4,10 @@ This repository contains the data generation for ["Temporally Coherent Full 3D M
 <p align="center">
   <img src="https://github.com/liujianee/MVIPER/blob/master/assets/female_106_12_Full_with_Music.gif" width="40%">
 </p>
+
+
+<center><img src="https://github.com/liujianee/MVIPER/blob/master/assets/female_106_12_Full_with_Music.gif" width="40%"></center>
+
 [Youtube-link](https://youtu.be/Olbo53PgGH8)
 
 
