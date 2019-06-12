@@ -4,7 +4,6 @@ This repository contains the data generation for ["Temporally Coherent Full 3D M
 [<img src="https://github.com/liujianee/MVIPER/blob/master/assets/female_106_12_Full_with_Music.gif" width="40%">](https://youtu.be/Olbo53PgGH8)
 
 
-
 ## Environment
 - Ubuntu 16.04
 - Python 3.5
@@ -17,21 +16,30 @@ This repository contains the data generation for ["Temporally Coherent Full 3D M
 ### ENV SETUP
 1. Install [Blendre-2.79](https://www.blender.org/download/)
 2. Install [Marvelous Designer](https://www.marvelousdesigner.com/product/pricing/)
+3. Download [smpl-data]()
 
 
 ### GENERATE ANIMATION
 
-1. without cloth
-
+1. check settings in [config](https://github.com/liujianee/MVIPER/blob/master/datageneration/config)
+2. run [script](https://github.com/liujianee/MVIPER/blob/master/datageneration/run_Generate_Animation.sh)
+3. get animation sequence without cloth in [here](https://github.com/liujianee/MVIPER/tree/master/datageneration/animate_out)
 
 ### CLOTH SIMULATION
 
-1. MD
-
+1. use [MD](https://www.marvelousdesigner.com/) to design [cloth](https://github.com/liujianee/MVIPER/tree/master/datageneration/MD_Assets) for avators.
+2. put cloth on and run cloth simulation for a target animation.
+3. save cloth mesh and motion files in [here](https://github.com/liujianee/MVIPER/tree/master/datageneration/animate_out).
+4. you can download simualted action with cloth files from [here]()
 
 ### RENDER ANITATION
 
-1. render
+1. collect your preferred backgrounds and textures, place them in appropriate [path](https://github.com/liujianee/MVIPER/blob/master/datageneration/config).
+2. run [script](https://github.com/liujianee/MVIPER/blob/master/datageneration/run_Render_Animation.sh)
+3. you can download some rendered data from [here]()
+
+### EXAMPLES
+
 
 
 
