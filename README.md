@@ -1,0 +1,37 @@
+# Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video
+This repository contains the data generation for ["Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video"](https://arxiv.org/abs/1906.00161)
+
+<img src="https://github.com/liujianee/MVIPER/blob/master/assets/female_106_12_Full_with_Music.gif" width="100%">
+
+## Environment
+- Python 3.5
+- Blender 2.79
+
+
+## Usage
+
+### ENV SETUP
+1. Install Blendre 2.79
+
+
+
+### GENERATE ANIMATION
+
+1. without cloth
+
+
+### CLOTH SIMULATION
+
+1. MD
+
+
+### RENDER ANITATION
+
+1. render
+
+
+
+
+## References
+- [surreal](https://github.com/gulvarol/surreal)
+
