@@ -1,7 +1,7 @@
 # Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video
 This repository contains the data generation for ["Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video"](https://arxiv.org/abs/1906.00161)
 
-Click image to watch in [Youtube](https://youtu.be/Olbo53PgGH8):
+Click image to watch on [Youtube](https://youtu.be/Olbo53PgGH8) (with music):
 
 [<img src="https://github.com/liujianee/MVIPER/blob/master/assets/female_106_12_Full_with_Music.gif" width="40%">](https://youtu.be/Olbo53PgGH8)
 
